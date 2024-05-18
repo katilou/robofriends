@@ -1,4 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# This file ignotes any files or folders mentioned whenever we push in github
+
 
 # dependencies
 /node_modules
